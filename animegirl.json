@@ -1,0 +1,113 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Anime Girl",
+      "wallpaper_url": "category/supercar.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "AnimeGirl1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151356976-236c00da-732e-4bcd-9ca4-cf95004256f6.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "AnimeGirl2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151356969-97cb4e39-ec59-4afb-9dba-d97317f96f40.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "AnimeGirl3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151356961-01a41acf-1b83-4737-8de4-40ee3beb216f.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "AnimeGirl4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151356945-d6feb933-692e-4ea3-a01b-14c2b38d4b1e.jpeg"
+    },
+    {
+      "id": 5,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "AnimeGirl5",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151356008-2b3b6ff3-ef83-4212-936b-54af88bbac56.gif"
+    {
+      "id": 6,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "AnimeGirl6",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151355996-55e0679c-8fe3-40e5-ae66-a8c679edd22e.gif"
+    },
+    {
+      "id": 7,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "AnimeGirl7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151355986-168f3b92-f8a2-40f9-8c07-7b2cdcf01b0f.png"
+    },
+    {
+      "id": 8,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "AnimeGirl8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151355985-fbf6bcae-b013-4df8-8ebf-0aaa596023a8.jpeg"
+    },
+    {
+      "id": 9,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "AnimeGirl9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151355980-74f31198-39f4-4eeb-a42c-c5785a1ae4b2.jpeg"
+    },
+    {
+      "id": 10,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "AnimeGirl10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151355976-e8944063-dffb-4c8c-ba97-4c56c31d8be6.jpeg"
+    },
+    {
+      "id": 11,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "AnimeGirl11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151355962-1bc443e4-af45-41a0-af41-2c7eb80da30e.jpeg"
+    },
+    {
+      "id": 12,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "AnimeGirl12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151355946-0bac1de6-4cfb-4b34-b069-2d572e1a254c.jpeg"
+    }
+  ]
+}
