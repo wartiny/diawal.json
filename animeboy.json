@@ -1,0 +1,93 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Animeboy",
+      "wallpaper_url": "category/supercar.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151342955-31ba2eef-88ff-446b-8585-4d859e8804c9.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151342961-dbc4f819-1ee5-4e28-874f-fc7cda99f98a.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151342967-b09d4574-08c9-4861-babb-8fd09f64c305.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151342974-2e09fe66-b45d-4549-945f-075487b0e9ce.jpeg"
+    },
+    {
+      "id": 5,
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151342987-5b6dc2ba-a888-444e-89de-a8ead203a241.jpeg"
+    },
+    {
+      "id": 6,
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151342996-0915f05a-678b-4fd7-a94b-a43b8f57bef9.jpeg"
+    },
+    {
+      "id": 7,
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151343008-976210fa-9be4-4cd7-b6c3-25ca8aa20a36.jpeg"
+    },
+    {
+      "id": 8,
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151343061-3148290c-f72a-4153-8c66-49fd88110250.jpeg"
+    },
+    {
+      "id": 8,
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151343074-1a43060f-5461-4941-ab9d-53a1e23295c9.jpeg"
+    }
+  ]
+}
