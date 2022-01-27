@@ -1,0 +1,107 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Mercedez",
+      "wallpaper_url": "category/supercar.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Mercedez",
+      "wallpaper_name": "Mercedez1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151359256-4673b531-b957-4be6-8a49-1e622810013a.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Mercedez",
+      "wallpaper_name": "Mercedez1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151359255-f555a37c-e0df-46eb-9d76-20de38cae980.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Mercedez",
+      "wallpaper_name": "Mercedez1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151359251-7f9572bd-1074-4313-b2c3-dabe23f4c009.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "Mercedez",
+      "wallpaper_name": "Mercedez1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151359242-dabcabca-5158-4fae-a648-6358d4a862ad.jpeg"
+    },
+    {
+      "id": 5,
+      "name_category": "Mercedez",
+      "wallpaper_name": "Mercedez1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151359224-e2368d75-75cc-49fc-9040-a4661e6b6e2c.jpeg"
+    },
+    {
+      "id": 6,
+      "name_category": "Mercedez",
+      "wallpaper_name": "Mercedez1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151359217-6d098c77-cbf1-4734-9244-a84fd510c6bf.jpeg"
+    },
+    {
+      "id": 7,
+      "name_category": "Mercedez",
+      "wallpaper_name": "Mercedez1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151359216-1fdabd57-7f0a-48d3-8fab-b765c1ad7fc9.jpeg"
+    },
+    {
+      "id": 8,
+      "name_category": "Mercedez",
+      "wallpaper_name": "Mercedez1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151359214-b085beab-9e4b-4e22-b37c-dc26fe59ebe1.jpeg"
+    },
+    {
+      "id": 9,
+      "name_category": "Mercedez",
+      "wallpaper_name": "Mercedez1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151359208-cc90dcd3-d8ac-4d5f-9fef-1beffaf102c8.jpeg"
+    },
+    {
+      "id": 10,
+      "name_category": "Mercedez",
+      "wallpaper_name": "Mercedez1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151359203-ddc76b11-1adf-45bc-8623-76d3ca015cb8.jpeg"
+    },
+    {
+      "id": 11,
+      "name_category": "Mercedez",
+      "wallpaper_name": "Mercedez1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151359197-9ff6940c-7fdf-4e0f-81b7-484c2ff1f4ae.jpeg"
+    }
+  ]
+}
