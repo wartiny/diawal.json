@@ -1,0 +1,93 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Super Car",
+      "wallpaper_url": "category/lambo.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Super Car",
+      "wallpaper_name": "Lambo1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEj03HGq9SHh71UzNyMCn0kSafEefOnnfYFr4ap4dA93WHUfLOLuMUKXX1etGVJlFVe134PmVo6SgVjNORJxxEzvZre1K-QXqL3UbcE-HDIkkWcSdx1CpOkvADrktRUsFgUWnjnb_U-tWI8Dhrdm3k7iOcJcVYZICdDzcVMzX8LkAh3XFb5u5T3JwBiG=s16000"
+    },
+    {
+      "id": 2,
+      "name_category": "Super Car",
+      "wallpaper_name": "Lambo2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgF37YC_jyN1-dhUcV1IKL15m3sbG0j2lrHItqq5ppYsT3aMh2Fj3pyrWQuFjdwoFyI2QSbPUPymGarVpk4xYq73238O-6-4vz4hvPVcgo-MbIQpDig2qYhh9CMQShAGzGOfBte_43poJe3eH1pHA2JlUgze1LQHXPHre5JwjWAlVZ4BczbiCz9uUj2=s16000"
+    },
+    {
+      "id": 3,
+      "name_category": "Super Car",
+      "wallpaper_name": "Lambo3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEh_9m7iM3PCHB2AcJYwqLZH6GfUbBRWsnJFC0YYQqIvpLg95N1iSsLbJeJO6NT4pg4vmYLBjAXA8VpGaCdxPXu-QdNtmAmw94NSHJ4ch2STVqy6yRCf0yYBKC7IugShUKCBvUfUjUREw1T70rukIsI3EgLuEefhlBzVhi0V8JAkcYq1w642vgBYjhON=s16000"
+    },
+    {
+      "id": 4,
+      "name_category": "Super Car",
+      "wallpaper_name": "Lambo4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhA63hdpUis630_I1-yXUr7ui3bbWtRJe37YzqIbP0aw1meZfmwrSlNqTV3fYntxsg5ALcM7i3MdsD3a3jvzmGAW8-T5xoXcg_F277sDo5oXjCEqgVnTn6KDycm1x0_Jvm60qMPKWc2O4RZj5jIgXDToonB8zCeQB9xtAGrSxdiCiR91olrCG3QBmtk=s16000"
+    },
+    {
+      "id": 5,
+      "name_category": "Super Car",
+      "wallpaper_name": "Lambo5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgmN8nBtPvD7-ct1cfLcZav2uKuf1AROF47fxmYHakKDdqBK8yox_TkwJvcdmisFUsGt_GCufrdgpXX7JexUNzW8_MmVCXa5HNoJHleKJT9yKhA7MeYh2CtV9IbNED9HHC_uJvZvs0_T4pgGig9TIXgHnxEyEBenq7a-S0yPZnMjMGqWrSvgJnZvLcP=s16000"
+    },
+    {
+      "id": 6,
+      "name_category": "Super Car",
+      "wallpaper_name": "Lambo6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhJEGOCYoIPAEzQ3EnInCzDj3lDSAndY_sZfDKC7Dmc5CBIeFyO0zo1YSjeGXxBvnGhPOtoyFqKQV87W20QKtQ5k10QLZX8-8pdAgPMWCl-8T3b9suvxMIPTjSMjxYGe9Y-cZ76Lv8hWnO6ZS4QpixeJ6F67NYZvFdH7CBKm1b4oIYH2HMmEzrYQJ6w=s16000"
+    },
+    {
+      "id": 7,
+      "name_category": "Super Car",
+      "wallpaper_name": "Lambo7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEiUK7AwYi017Kpf8fc41Gtrw1VbzxUTa0gMjqnYKczYMtkxQh6GrqIdRO_tqiypM_YxSsNnlgLGgfdAvyq6Vm_Z1koL17wR1oLd-yaGlOndLvZZjyTerEGAgFZtrwZaBUcEDGWw_honSbHk5eovrivL3-I0-UR0kZpHflZ0ujkZ3eQLYs5sRg0LjnTa=s16000"
+    },
+    {
+      "id": 8,
+      "name_category": "Super Car",
+      "wallpaper_name": "Lambo8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjaOPYFM7guSUF_gtX6AaDo5sQeFm08DcGxfyOEZaFxIZLjSxzhrV0ckuKbLFKMXUXxOu7PsiRJ3EqI8HDP_k4GpD1Gkq5-PLBCDKvlzhjhyT_zFfbvTxuHpTsLYIHFp6JZ5qmhbBtTpHioMkd7G7IBYakto0WpjwwrHFeJXzzeU4hOHVBI3ZcD9gwc=s16000"
+    },
+    {
+      "id": 9,
+      "name_category": "Super Car",
+      "wallpaper_name": "Lambo9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjc7cusdQxrSXP4iBr74Nhkt-vN70Ig8fifHujcvuS0dGPRltj_p5NieoypwmWilXcgo4bObMg_VaZo5EZ8QQUGTf6tMAlPSd1wDXOHMUSrrR_v50FRxBv7ElbJN5amcycZueTei0EJZa3A2QSLrfGx_G05vQlYAcielGJcTSj0RGtu4OlpJqvCIwZn=s16000"
+    }
+  ]
+}
