@@ -7,7 +7,7 @@
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -21,127 +21,94 @@
   ],
   "Categories": [
     {
-      "name_category": "Super Car",
-      "wallpaper_url": "category/supercar.jpeg"
-    },
-    {
-      "name_category": "Nature",
-      "wallpaper_url": "category/beach.jpeg"
-    },
-    {
-      "name_category": "Animals",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
-    },
-    {
-      "name_category": "Vector",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+      "name_category": "Couple",
+      "wallpaper_url": "category/animecople.jpeg"
     }
   ],
   "Wallpaper": [
     {
       "id": 1,
-      "name_category": "Super Car",
-      "wallpaper_name": "Targa",
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "image/car.jpeg"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjblyKyVEkjkAtzC_uUC-EdCkOzhgLyaCLf3MGkZqdJo-yf9pdvrqNoaw5g8JUD4_8cmtM1Qg2X8ClBy8mrWY0IIJK3fBjxp-Nd5fiJJh8yPo-tkXHi3oQ5d47xWltgewVzeBUBR0dxF00613QHtNlUwhYmEIzUG2ezqhP6oM4tReeyFHrrnHzi3WNy=s320"
     },
     {
       "id": 2,
-      "name_category": "Super Car",
-      "wallpaper_name": "AUDI",
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "image/car2.jpeg"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjknm8LM_yRvrVGhaORHSXSFKS9DI81LXV2bdM5-oeqIn0YImHOqKJRpNlxuCjn_ltIlvjK-eY-OajRBVhHp2V2opc0sXtiOHQ9Z08oOZ3Vts_SE-BtcknuZvNoAdETuSo1-1CxDU8UGNnt5aGM9JrLkdHPrabmZSD8IuZn2DAdZ_Gla0fW43eTb0hg=s320"
     },
     {
       "id": 3,
-      "name_category": "Super Car",
-      "wallpaper_name": "Lamborghini online",
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=WzHojpVr-9e08Y-AH_0by4YHda7dyOSAC4DGq8TIZxJ3jV4F_gjM0NL7HhgDgttsEwouIA3wm_f6rG7fwmr8hANlNM34saxpAy6hfUQhD0uc2biWhL2U66babd429tqfcKIucYirg-8PZKu5YdgXyDgnGbJ8OZSBinsPEH0UcmxYI0lW1cXc1BXAebjTmHhlddILS_sr9sjH_mni"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEh-cUaXNLXYpfWgVLolZudlD55RejuU9-W9GN-__zRWEZ0zWrk3_wM2cMR6P-U-mT42e-CL10VhGbo1hMMmhZVEeXpQjxCfwfKkEzMjkJBt3_euEANt24I3np-Np7Z9rrveR4fzN3WMCvJkM75CMHsJ1Etfc2DCTtYqvJE-CHXm5gu06xiQ3Tx9tod4=s320"
     },
     {
       "id": 4,
-      "name_category": "Animals",
-      "wallpaper_name": "Cats Eyes",
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=G0Vz_ghyvO5D_KvhbcnTegU8qEgLp2VYnuf-UvbcL38AfKP9qSbV2URnXV6VFrcbd5_CvlDTUqucxjskrhFuGV_Lyx8Wf8FK3MAzehtwz3U3IqvPok36dyyDtzZYbDb0ulO6ETF0oBoTbiVfvbyTN6uRW6Vllp1J5qwdiNz9UDNyAhz0IPGe4o1TEVFU8CgofeYzAJw6RPQqYQOn"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhrJoE7zp4f_EVtDYjIU_uFVC_qMDamavGmSZbUVclRjltJ60iExDZTueZ8K3NFUm_aEVpHgMcay8nDspfubed6ja3wny52dWbQSNSNCMDoFHOHvGFWs4JlHI6HFOqYXP8s2e8clyW8U6TV8N90BUJlKdXW2qoo-F6alVL5gJDikOKubYssmPFTZalM=s320"
     },
     {
       "id": 5,
-      "name_category": "Nature",
-      "wallpaper_name": "Waterfall",
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=f1Ck9IjB97H0HoRDVgmJ17ssp-DnEka5YgeS1jwjNOrGealcOZVtB8EKCm08pN0RkfWw0Ind39wZYvPh75wY6Nzz2EbYapMooRs05PhX3hhsLjpgtZCYdOLnJI_JYLLQo1UylmGWwQ36Garqn5UAkDVnVqrRGhM1HK8LScKOJvzWF207blSQZnJBYOyMZqB7oBv25Ps4GbBiT6Lq"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgxZ4xg5KMQYrEu8_GT-SlEN_ureMdts_MtJtKBJVQX0xFxH8hDNhOLecMUUo4ZG1mbieR2v1DLHZQDZOdEOooks2wespt2Z7Xg00F7NmHBsNxJrzgtwvsXucuh7YLEOeBNyxIC2ZZwkFfik8EGxktGR0LYOEOSIR9CCndnWqizj2vYXMGdclRGTzgJ=s320"
     },
     {
       "id": 6,
-      "name_category": "Nature",
-      "wallpaper_name": "Mountains",
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=nAu7dUDvECaSSV2dpCP904JxubxjbxI3sruHIJmxwGTK-ziYxtcDgGJDAMkjzwz9JKbmCjQiiP8m18Oh1Wvblk5CFoL7P_tQOpEk7ukwvBH1fH_odtMtGBxik_2j7a5H8jJnKbh8i43bWZpYoskMtjs_wQxOEYdDLknIbxUS_vEd4N6xfjAGrugdhW_KS24iYgmHOzo6tPuBd3uE"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgmadiNMz9rPNJyruvOV3CnD4JeXAvDJBQRUIFIrUbYLF4-4fLbNdLJyg0oTCxC3FjwRWQ9ADuggPuXRcYpvyqXkc8HUiYDs5-cmMO5Uzw8993gnZph6bjXP61avMgS2XlzHBg7JQazfgXgsia2tVR-gyHKuHe-bFvCM3Z_tXRdYlhnMGJdEjRMqjBR=s320"
     },
     {
       "id": 7,
-      "name_category": "Animals",
-      "wallpaper_name": "Loves Bird",
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=jQ2USSikr_q5y0tJHcZVC_gvPC9uSELWX9lqlv-4VMdPm8dcdF9Kk8PmSCGvxzgunrDI6zEYvht_tF0ZVpKzgXWLHKCsOlgoW0z1E53lNTKNTIxbWzY75j_im4r7wDxCqmonLHlM9fuxXGvAmDNXFjYI8OU0ehKjj5kl6kcdzG0GDxd4GC5uXvLVviqSIHYtGuHTLXRnGVHw-9kW"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEi20d6idBCV8pjKJA004rgFun-J2ZfL20XTxZ4jEE2lp10_vQrOVsH1P2RHZzJQsRXlfUi-XXsBhzaM3NEcyl-ZJo9EdOQsxxGUv_TxuIHjUqazaFkVJBMSEhgI7OObjqkgQDA2xMbboWqT6A--1nyF0MI25JvbcSklUYoZK5pNID3kDY308jW8mTAe=s320"
     },
     {
       "id": 8,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Waterfall Online",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/river2.gif"
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhm0DZisHQCcv26wWySaweCeF6BS_1X9-iUstvtYFfv-79oDy_-bt_E9HDq8BCMlDsOQFMWws_0sUz2BkoZYB4USjPp_9DrTjoFfRhi2Z2NyJgRYzrd-qwC6KPPNQEQHc9dSbTfxmRfwBowyzKe6sT9mGztF3curHjmcsAOD0dF0pGKzPgZK0CEuVVA=s320"
     },
     {
       "id": 9,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Waterfall Folder Asset",
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEi_R44gmHMrCRFDGFrXONJxhi8QU5Yy08lvJyU-SX2KTuk3Ub0z_glLRRbaqa0-PVg37kWmQUukPe-UfceUlwEjQWDPeuqW0oACgh-pyn9rEp_zyL1Q5A1ToDmaI29X65XlNSt_syKhXYtCjFjxtJZ39uGcvk4I7_ADLfu5bQ-MmmkT4ouf6d0Lz47Y=s320"
+    },
+    {
+      "id": 10,
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple10",
       "wallpaper_type": "GIF",
-      "wallpaper_url": "gif/waterfall.gif"
-    },
-    {
-      "id": 10,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Beach Online",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/palm.mp4"
-    },
-    {
-      "id": 10,
-      "name_category": "Animals",
-      "wallpaper_name": "Live Frog Folder Asset",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/frog2.mp4"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhPcHBB3UTy68_zlUQ4yn7bBHTGSjAt2qA_RHHFMbIZafI5LTRlFgjMn6LgbGinx6M-IgyKvYT63I4c0Zi7N7RhFZipUSSqyt-QsTv-ommpb5wNG5nztMABA_pA0gQ5LUtuZnG-_KLQV7eGIg3wCHMA2DAQrr2GkpJadIZt2rUgGyxr8xZzvH9enlSt=s320"
     },
     {
       "id": 11,
-      "name_category": "Vector",
-      "wallpaper_name": "Blue Ink",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/blueink.mp4"
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple11",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgCZAQg7bxYFB8DKTfXNYZmKOQcnh4RxBokF3Lf7GIe-UEeih8BHk90th1GAQyMofd-xJAkzdWawHb0GLrV5D-bgJjUaeoarTJCS9a86iZ_MlktW-d_nyPpxxgGDvUapcaElJltjMarZBJHwdonjmr8p27gC23wmcRI-uQx2AwqOO6XjIQfEPsjQRj6=s320"
     },
     {
       "id": 12,
-      "name_category": "Nature",
-      "wallpaper_name": "Summer",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/flower.mp4"
-    },
-    {
-      "id": 13,
-      "name_category": "Vector",
-      "wallpaper_name": "Sunset vecto",
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple12",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=5l2rRlSKwIQro0aaWoR2NVS_VttrfMP5dUlY9nAT7LkFJpD_hrPVJrHj8RO9wjKSor9crYTTtF71kWafZ07t0Jeh2QidDsVN0kMmHJubyznNyOnv8p_FdK8teCa87OX_UtaK2YCaUmt9Btfp0NKJcWep_9txBuYIvcNtPLUQWLXo9ToKPGNG562fl4MNRASa1RXcRCmYicZLonmc"
-    },
-    {
-      "id": 14,
-      "name_category": "Vector",
-      "wallpaper_name": "Vector island pirate",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=cPXcg20dkirK_YZRY3MIiy-0ZGAIqWCGcb1GBFmowZPQuRyie9SbHbUsPMOMb7ZhkNUszfJFABiot7XmpRwDCNhVFdfFAKTIcebBNPHcMj211yiCnYMXtaSo0fu-RDe5WA_knLZZIsn0Q2jP0oWLcDdOUiZNg3PT05CzlNXB4CRjDtJpf6i8i4x4BCdDVLuf5ZSBqwf8vgYBdE2m"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEj8xYArEyYGJEIqw_PWNlb6nvbz-pHJTV_o2SvzoSxr7vly4qrhzwGg-MEaO3-Oi5akpR8gtDOoxPgFgy1qFlJ1CjalIZRRFs8Zny-Xti19neR5nQqKMhOxNoc6JOT5qpaShkq8mDEWPQg5WGy_cKfGVsWRyr7GUupE0jI_elBdVRsSRANCcQnUQIkZ=s320"
     }
   ]
 }
