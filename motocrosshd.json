@@ -21,127 +21,73 @@
   ],
   "Categories": [
     {
-      "name_category": "Super Car",
-      "wallpaper_url": "category/supercar.jpeg"
-    },
-    {
-      "name_category": "Nature",
-      "wallpaper_url": "category/beach.jpeg"
-    },
-    {
-      "name_category": "Animals",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
-    },
-    {
-      "name_category": "Vector",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+      "name_category": "Motocross",
+      "wallpaper_url": "category/motocros.jpeg"
     }
   ],
   "Wallpaper": [
     {
       "id": 1,
-      "name_category": "Super Car",
-      "wallpaper_name": "Targa",
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto1",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "image/car.jpeg"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgk6xm9upmBTLHbTX7AejGCIBjmAXpQs_HWDXl45tsDAKNvOWxqj21w4oaxE0eLBZIpJI7Kc0kK0DoHT47NraRWqjR93xMFQ7Q61PRFbukYj7UorOe3typ_7BmL3Vjo_BoAUUdGEFSamjNUZ82pHaUC-eRrWmQP1Wsj5U5w8F0VN_m36Z3ySBcTj1uw=s16000"
     },
     {
       "id": 2,
-      "name_category": "Super Car",
-      "wallpaper_name": "AUDI",
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "image/car2.jpeg"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEj0ksMAiCsA-QqlSd2eBXuIsT-uFv5GvmmbCUYZkbDciWWLXpOSXj_xymOysFQnHqr2Iy1CQvyhQmUsDiAubPPYMweubKBqF1GfmStjNul7dJTvc3iaWYaIHMzo8nbOWBGz8bzgJipPyN48fDRb-9P9pDbEY5T63ft9uGN9VNgUiakXe-JWg7qWil2s=s16000"
     },
     {
       "id": 3,
-      "name_category": "Super Car",
-      "wallpaper_name": "Lamborghini online",
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=WzHojpVr-9e08Y-AH_0by4YHda7dyOSAC4DGq8TIZxJ3jV4F_gjM0NL7HhgDgttsEwouIA3wm_f6rG7fwmr8hANlNM34saxpAy6hfUQhD0uc2biWhL2U66babd429tqfcKIucYirg-8PZKu5YdgXyDgnGbJ8OZSBinsPEH0UcmxYI0lW1cXc1BXAebjTmHhlddILS_sr9sjH_mni"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEiqNb2CNpg64AU-t3oggOEulibe6P8jncPr7_VEAXzTBhA8OUybazHBcIm4MGN7RfRggknnjCxkjZ9LMxou1H1IlIpCxYPF06NZ2bAjaQD7NCsfTAhDWeGS-ViOdgDlRy-0vuPVtggpMQ2sYDghnXz52rTwlKOwMPXQECGwwby37bmsAjKBfpgb3nuD=s16000"
     },
     {
       "id": 4,
-      "name_category": "Animals",
-      "wallpaper_name": "Cats Eyes",
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=G0Vz_ghyvO5D_KvhbcnTegU8qEgLp2VYnuf-UvbcL38AfKP9qSbV2URnXV6VFrcbd5_CvlDTUqucxjskrhFuGV_Lyx8Wf8FK3MAzehtwz3U3IqvPok36dyyDtzZYbDb0ulO6ETF0oBoTbiVfvbyTN6uRW6Vllp1J5qwdiNz9UDNyAhz0IPGe4o1TEVFU8CgofeYzAJw6RPQqYQOn"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEh2ivfWxS08ufjmrKWNBz548TqoX35mr0MZzUOfNKpTSpaxHijwUakKPnY_Mkt1oKJ4OGFpdKpfd4kGYc4QhZELBD9vrpYg4gDp8AjUdKn3h7ElBG-wPihD1s6vHVP9egPxX8do9JbMJNeBf1Dksat3CvxVhGbjxn9Y4b6tNfaD5yHCJJQsNpiwO3J5=s16000"
     },
     {
       "id": 5,
-      "name_category": "Nature",
-      "wallpaper_name": "Waterfall",
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=f1Ck9IjB97H0HoRDVgmJ17ssp-DnEka5YgeS1jwjNOrGealcOZVtB8EKCm08pN0RkfWw0Ind39wZYvPh75wY6Nzz2EbYapMooRs05PhX3hhsLjpgtZCYdOLnJI_JYLLQo1UylmGWwQ36Garqn5UAkDVnVqrRGhM1HK8LScKOJvzWF207blSQZnJBYOyMZqB7oBv25Ps4GbBiT6Lq"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEi2mIvXsnKh3FUQreuDBppJd9X9I2Bx6QQHHEjXJbZ_Sa-BNuCpRK75WpcC4WGZ1VPY9-nJhJtpWri_Dea8zUPU9r8qJ5QcctvmwhYQpCppX8AwBJ0YhV9BKq1CsrPMc5Z69W8pYSmZ-sVvlH0Nrqr0XJjR6kGI4d2tXg4D-5XlLMQfNAVC7gVQkNEL=s16000"
     },
     {
       "id": 6,
-      "name_category": "Nature",
-      "wallpaper_name": "Mountains",
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=nAu7dUDvECaSSV2dpCP904JxubxjbxI3sruHIJmxwGTK-ziYxtcDgGJDAMkjzwz9JKbmCjQiiP8m18Oh1Wvblk5CFoL7P_tQOpEk7ukwvBH1fH_odtMtGBxik_2j7a5H8jJnKbh8i43bWZpYoskMtjs_wQxOEYdDLknIbxUS_vEd4N6xfjAGrugdhW_KS24iYgmHOzo6tPuBd3uE"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjVcBnu3g3C_urXbmgDPv5UsYSLSXaZvkaAqVqBft0PXg7LIN0lIy02R-raOlEzVMpUJjGhG50zmmst-2727ZdwIbU5xXlP08nXOELTI9rRt0ZZ1W8DHtHQgCcfeAptnQ73DXTEC6VeuofmgGp5X00xbZkNkv00z5zJe4I8503f5HfbWPB0wv2jQRQU=s16000"
     },
     {
       "id": 7,
-      "name_category": "Animals",
-      "wallpaper_name": "Loves Bird",
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=jQ2USSikr_q5y0tJHcZVC_gvPC9uSELWX9lqlv-4VMdPm8dcdF9Kk8PmSCGvxzgunrDI6zEYvht_tF0ZVpKzgXWLHKCsOlgoW0z1E53lNTKNTIxbWzY75j_im4r7wDxCqmonLHlM9fuxXGvAmDNXFjYI8OU0ehKjj5kl6kcdzG0GDxd4GC5uXvLVviqSIHYtGuHTLXRnGVHw-9kW"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhoJ-ftIGzN8MZdBz4L6WAhtd-NCUetzinXkFnWXjqweYw5UAXpqACBzK7EOjaCh6dTN43gScf-0yOovos472BZ6G3B4n9X9RFvp5Y8Np_4EozNhmL4HitLSLFt-ozOIPCroZ2NLAGSJvWb7XKqc4q8vgvbwpeE9vRBfcwV08_yoESYsWkGuQ4ZLSSg=s16000"
     },
     {
       "id": 8,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Waterfall Online",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/river2.gif"
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgdCKhpjkSi1_WxvN-kEpZh6Q2v3ALRpip1LJuYCiZomHXA1F7V2byfl_0x8VbGbD8O6U4s6h7gAvpwe54eLkRgj5fF2a7fTJPI16Rtnzf0_gKUtuLRuVTJXVV6GBKymODjiXhyspneghDfMEFQcySKMPq1jGTeDdNIWlcmcnPaZ9lWQ8a7mYgodmPO=s16000"
     },
     {
       "id": 9,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Waterfall Folder Asset",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "gif/waterfall.gif"
-    },
-    {
-      "id": 10,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Beach Online",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/palm.mp4"
-    },
-    {
-      "id": 10,
-      "name_category": "Animals",
-      "wallpaper_name": "Live Frog Folder Asset",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/frog2.mp4"
-    },
-    {
-      "id": 11,
-      "name_category": "Vector",
-      "wallpaper_name": "Blue Ink",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/blueink.mp4"
-    },
-    {
-      "id": 12,
-      "name_category": "Nature",
-      "wallpaper_name": "Summer",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/flower.mp4"
-    },
-    {
-      "id": 13,
-      "name_category": "Vector",
-      "wallpaper_name": "Sunset vecto",
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto9",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=5l2rRlSKwIQro0aaWoR2NVS_VttrfMP5dUlY9nAT7LkFJpD_hrPVJrHj8RO9wjKSor9crYTTtF71kWafZ07t0Jeh2QidDsVN0kMmHJubyznNyOnv8p_FdK8teCa87OX_UtaK2YCaUmt9Btfp0NKJcWep_9txBuYIvcNtPLUQWLXo9ToKPGNG562fl4MNRASa1RXcRCmYicZLonmc"
-    },
-    {
-      "id": 14,
-      "name_category": "Vector",
-      "wallpaper_name": "Vector island pirate",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=cPXcg20dkirK_YZRY3MIiy-0ZGAIqWCGcb1GBFmowZPQuRyie9SbHbUsPMOMb7ZhkNUszfJFABiot7XmpRwDCNhVFdfFAKTIcebBNPHcMj211yiCnYMXtaSo0fu-RDe5WA_knLZZIsn0Q2jP0oWLcDdOUiZNg3PT05CzlNXB4CRjDtJpf6i8i4x4BCdDVLuf5ZSBqwf8vgYBdE2m"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEiy8EGl955zJrORpENMp3iDctCXFoo5apzselfgddgvAhERi-h6KV8rea9j8aRZ37tehkkYbrirYFL2ukZGMU9DOiZY19d_7x5GsmokSUnvazzHHop7ADl0mu7lr_6kqiebAAm7_gpUzb7rf7bpmLpfvZZJmmB4VMJ62Vwpxdtb3cCsgZ5W9wVTRQme=s16000"
     }
   ]
 }
