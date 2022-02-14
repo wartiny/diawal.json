@@ -3,9 +3,9 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 1,
@@ -46,20 +46,7 @@
     {
       "id": 1,
       "name_category": "Easy",
-      "image": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Medium",
-      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Hard",
-      "image": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
-
+      "image": "https://user-images.githubusercontent.com/63693514/99809150-75f31e00-2b74-11eb-98c6-56637cf8cc54.jpg"
     }
   ],
 
